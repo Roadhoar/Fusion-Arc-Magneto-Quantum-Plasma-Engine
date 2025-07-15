@@ -1,0 +1,4 @@
+# Utility functions for Fusion Arc Tuner
+
+def print_welcome():
+    print("Welcome to the Fusion Arc Tuner!")
